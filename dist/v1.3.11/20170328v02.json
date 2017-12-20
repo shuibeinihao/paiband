@@ -1,0 +1,212 @@
+{
+	"buildDate": "2017-03-28 10:51:57",
+	"buildNumber": "20170328v02",
+	"moduleList": [
+		{
+			"name": "load",
+			"hash": "4d8b0b6e24a07e261b36",
+			"type": "js"
+		},
+		{
+			"name": "baselib",
+			"hash": "d1b469b47443d1837bd3",
+			"type": "js"
+		},
+		{
+			"name": "app",
+			"hash": "d31ac52bd6fa57955d7d",
+			"type": "js"
+		}
+	],
+	"chunkList": [
+		{
+			"chunkname": "health_sport",
+			"chunkid": 0,
+			"chunkids": [
+				0,
+				16
+			],
+			"chunkFullHash": "7e13972925610e650294ebfca6db03c8",
+			"chunkRenderedHash": "7e13972925610e650294"
+		},
+		{
+			"chunkname": "health_sleep",
+			"chunkid": 1,
+			"chunkids": [
+				1,
+				16
+			],
+			"chunkFullHash": "70752a75ba2d55c13a049c1391c2d021",
+			"chunkRenderedHash": "70752a75ba2d55c13a04"
+		},
+		{
+			"chunkname": "expert",
+			"chunkid": 2,
+			"chunkids": [
+				2,
+				16
+			],
+			"chunkFullHash": "80b693cd489dd15bdfe1daf62fa31955",
+			"chunkRenderedHash": "80b693cd489dd15bdfe1"
+		},
+		{
+			"chunkname": "clock_all",
+			"chunkid": 3,
+			"chunkids": [
+				3,
+				16
+			],
+			"chunkFullHash": "fe4098c582590c780dd9563168c1667f",
+			"chunkRenderedHash": "fe4098c582590c780dd9"
+		},
+		{
+			"chunkname": "heartclocklist",
+			"chunkid": 4,
+			"chunkids": [
+				4,
+				16
+			],
+			"chunkFullHash": "01aa6dfaede5a56291fc9fbf822ea35e",
+			"chunkRenderedHash": "01aa6dfaede5a56291fc"
+		},
+		{
+			"chunkname": "achive_task",
+			"chunkid": 5,
+			"chunkids": [
+				5,
+				16
+			],
+			"chunkFullHash": "7ce2c091de5b5ea6ff6fafdeb3f8d7bf",
+			"chunkRenderedHash": "7ce2c091de5b5ea6ff6f"
+		},
+		{
+			"chunkname": "health_heart",
+			"chunkid": 6,
+			"chunkids": [
+				6,
+				16
+			],
+			"chunkFullHash": "8761a14be410d6c48eb6a91fec830a0e",
+			"chunkRenderedHash": "8761a14be410d6c48eb6"
+		},
+		{
+			"chunkname": "security",
+			"chunkid": 7,
+			"chunkids": [
+				7,
+				16
+			],
+			"chunkFullHash": "25000f452293bc1da6f432ee9a6f507d",
+			"chunkRenderedHash": "25000f452293bc1da6f4"
+		},
+		{
+			"chunkname": "setting",
+			"chunkid": 8,
+			"chunkids": [
+				8,
+				16
+			],
+			"chunkFullHash": "7e1232a12396084e6b4c15cb994120d8",
+			"chunkRenderedHash": "7e1232a12396084e6b4c"
+		},
+		{
+			"chunkname": "paibandfaq",
+			"chunkid": 9,
+			"chunkids": [
+				9,
+				16
+			],
+			"chunkFullHash": "00808e00f84ae9473a474d9cae0c93b1",
+			"chunkRenderedHash": "00808e00f84ae9473a47"
+		},
+		{
+			"chunkname": "flowers",
+			"chunkid": 10,
+			"chunkids": [
+				10,
+				16
+			],
+			"chunkFullHash": "ba986ade6af7598d460bfa764b5bfef7",
+			"chunkRenderedHash": "ba986ade6af7598d460b"
+		},
+		{
+			"chunkname": "flowersrecord",
+			"chunkid": 11,
+			"chunkids": [
+				11,
+				16
+			],
+			"chunkFullHash": "dbff9a0081ba928a46d95051e97fd0a5",
+			"chunkRenderedHash": "dbff9a0081ba928a46d9"
+		},
+		{
+			"chunkname": "mypaiband",
+			"chunkid": 12,
+			"chunkids": [
+				12,
+				16
+			],
+			"chunkFullHash": "7af3d3cfa39d5f879b98f8a06d829d61",
+			"chunkRenderedHash": "7af3d3cfa39d5f879b98"
+		},
+		{
+			"chunkname": "health",
+			"chunkid": 13,
+			"chunkids": [
+				13,
+				16
+			],
+			"chunkFullHash": "1a98733377b28f44e7bfeaa42e2c62be",
+			"chunkRenderedHash": "1a98733377b28f44e7bf"
+		},
+		{
+			"chunkname": "clock",
+			"chunkid": 14,
+			"chunkids": [
+				14,
+				16
+			],
+			"chunkFullHash": "4cb78458ebf623af447a4e1586f2ddd6",
+			"chunkRenderedHash": "4cb78458ebf623af447a"
+		},
+		{
+			"chunkname": "achive",
+			"chunkid": 15,
+			"chunkids": [
+				15,
+				16
+			],
+			"chunkFullHash": "b585557ba3f0a9da85c32e3c31b51aca",
+			"chunkRenderedHash": "b585557ba3f0a9da85c3"
+		},
+		{
+			"chunkname": "load",
+			"chunkid": 16,
+			"chunkids": [
+				16
+			],
+			"chunkFullHash": "4d8b0b6e24a07e261b36784ff74d166c",
+			"chunkRenderedHash": "4d8b0b6e24a07e261b36"
+		},
+		{
+			"chunkname": "app",
+			"chunkid": 17,
+			"chunkids": [
+				17,
+				16
+			],
+			"chunkFullHash": "d31ac52bd6fa57955d7d1a87719eca1f",
+			"chunkRenderedHash": "d31ac52bd6fa57955d7d"
+		},
+		{
+			"chunkname": "baselib",
+			"chunkid": 18,
+			"chunkids": [
+				18,
+				16
+			],
+			"chunkFullHash": "d1b469b47443d1837bd3fe79df97790d",
+			"chunkRenderedHash": "d1b469b47443d1837bd3"
+		}
+	]
+}

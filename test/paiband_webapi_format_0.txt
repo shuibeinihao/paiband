@@ -1,0 +1,198 @@
+//获取孩子信息
+apiname: /paiband/paiband/childrenDevice, time: 175ms, param: {"appid":"1108","uid":"6010053","token":"0c3f1c98cac64d24810a0e6c1a60ff05","cid":"6014356"}
+apiname: /paiband/paiband/childrenDevice, time: 159ms, param: {"appid":"1108","uid":"6010053","token":"0c3f1c98cac64d24810a0e6c1a60ff05","cid":"6014356"}
+apiname: /paiband/paiband/childrenDevice, time: 184ms, param: {"appid":"1108","uid":"6010053","token":"0c3f1c98cac64d24810a0e6c1a60ff05","cid":"6014356"}
+apiname: /paiband/paiband/childrenDevice, time: 185ms, param: {"appid":"1108","uid":"6010053","token":"0c3f1c98cac64d24810a0e6c1a60ff05","cid":"6014356"}
+apiname: /paiband/paiband/childrenDevice, time: 142ms, param: {"appid":"1108","uid":"6010053","token":"0c3f1c98cac64d24810a0e6c1a60ff05","cid":"6014356"}
+apiname: /paiband/paiband/childrenDevice, time: 164ms, param: {"appid":"1108","uid":"6010053","token":"0c3f1c98cac64d24810a0e6c1a60ff05","cid":"6014356"}
+
+//获取身高信息
+apiname: /child/grow, time: 149ms, param: {"time_start":1480921353,"time_end":1481526153,"appid":"1108","token":"0c3f1c98cac64d24810a0e6c1a60ff05","record_type":"HEIGHT","parent_uid":"6010053","child_uid":6014356}
+apiname: /child/grow, time: 136ms, param: {"time_start":1480921319,"time_end":1481526119,"appid":"1108","token":"0c3f1c98cac64d24810a0e6c1a60ff05","record_type":"HEIGHT","parent_uid":"6010053","child_uid":6014356}
+apiname: /child/grow, time: 160ms, param: {"time_start":1480921269,"time_end":1481526069,"appid":"1108","token":"0c3f1c98cac64d24810a0e6c1a60ff05","record_type":"HEIGHT","parent_uid":"6010053","child_uid":6014356}
+apiname: /child/grow, time: 136ms, param: {"time_start":1480921317,"time_end":1481526117,"appid":"1108","token":"0c3f1c98cac64d24810a0e6c1a60ff05","record_type":"HEIGHT","parent_uid":"6010053","child_uid":6014356}
+apiname: /child/grow, time: 162ms, param: {"time_start":1480921351,"time_end":1481526151,"appid":"1108","token":"0c3f1c98cac64d24810a0e6c1a60ff05","record_type":"HEIGHT","parent_uid":"6010053","child_uid":6014356}
+apiname: /child/grow, time: 131ms, param: {"time_start":1480921311,"time_end":1481526111,"appid":"1108","token":"0c3f1c98cac64d24810a0e6c1a60ff05","record_type":"HEIGHT","parent_uid":"6010053","child_uid":6014356}
+apiname: /child/grow, time: 193ms, param: {"time_start":1480921362,"time_end":1481526162,"appid":"1108","token":"0c3f1c98cac64d24810a0e6c1a60ff05","record_type":"HEIGHT","parent_uid":"6010053","child_uid":6014356}
+apiname: /child/grow, time: 132ms, param: {"time_start":1480921354,"time_end":1481526154,"appid":"1108","token":"0c3f1c98cac64d24810a0e6c1a60ff05","record_type":"HEIGHT","parent_uid":"6010053","child_uid":6014356}
+apiname: /child/grow, time: 147ms, param: {"time_start":1480921294,"time_end":1481526094,"appid":"1108","token":"0c3f1c98cac64d24810a0e6c1a60ff05","record_type":"HEIGHT","parent_uid":"6010053","child_uid":6014356}
+
+//获取身高记录
+apiname: /child/grow, time: 84ms, param: {"time_start":1465974152,"time_end":1481526152,"appid":"1108","token":"0c3f1c98cac64d24810a0e6c1a60ff05","record_type":"HEIGHT","parent_uid":"6010053","child_uid":6014356}
+apiname: /child/grow, time: 107ms, param: {"time_start":1465974154,"time_end":1481526154,"appid":"1108","token":"0c3f1c98cac64d24810a0e6c1a60ff05","record_type":"HEIGHT","parent_uid":"6010053","child_uid":6014356}
+apiname: /child/grow, time: 87ms, param: {"time_start":1465974154,"time_end":1481526154,"appid":"1108","token":"0c3f1c98cac64d24810a0e6c1a60ff05","record_type":"HEIGHT","parent_uid":"6010053","child_uid":6014356}
+apiname: /child/grow, time: 199ms, param: {"time_start":1465973846,"time_end":1481525846,"appid":"1108","token":"0c3f1c98cac64d24810a0e6c1a60ff05","record_type":"HEIGHT","parent_uid":"6010053","child_uid":6014356}
+apiname: /child/grow, time: 124ms, param: {"time_start":1465974153,"time_end":1481526153,"appid":"1108","token":"0c3f1c98cac64d24810a0e6c1a60ff05","record_type":"HEIGHT","parent_uid":"6010053","child_uid":6014356}
+apiname: /child/grow, time: 107ms, param: {"time_start":1465974111,"time_end":1481526111,"appid":"1108","token":"0c3f1c98cac64d24810a0e6c1a60ff05","record_type":"HEIGHT","parent_uid":"6010053","child_uid":6014356}
+apiname: /child/grow, time: 146ms, param: {"time_start":1465974162,"time_end":1481526162,"appid":"1108","token":"0c3f1c98cac64d24810a0e6c1a60ff05","record_type":"HEIGHT","parent_uid":"6010053","child_uid":6014356}
+apiname: /child/grow, time: 164ms, param: {"time_start":1465974094,"time_end":1481526094,"appid":"1108","token":"0c3f1c98cac64d24810a0e6c1a60ff05","record_type":"HEIGHT","parent_uid":"6010053","child_uid":6014356}
+apiname: /child/grow, time: 160ms, param: {"time_start":1465974151,"time_end":1481526151,"appid":"1108","token":"0c3f1c98cac64d24810a0e6c1a60ff05","record_type":"HEIGHT","parent_uid":"6010053","child_uid":6014356}
+apiname: /child/grow, time: 88ms, param: {"time_start":1465974162,"time_end":1481526162,"appid":"1108","token":"0c3f1c98cac64d24810a0e6c1a60ff05","record_type":"HEIGHT","parent_uid":"6010053","child_uid":6014356}
+apiname: /child/grow, time: 105ms, param: {"time_start":1465974117,"time_end":1481526117,"appid":"1108","token":"0c3f1c98cac64d24810a0e6c1a60ff05","record_type":"HEIGHT","parent_uid":"6010053","child_uid":6014356}
+apiname: /child/grow, time: 172ms, param: {"time_start":1465974069,"time_end":1481526069,"appid":"1108","token":"0c3f1c98cac64d24810a0e6c1a60ff05","record_type":"HEIGHT","parent_uid":"6010053","child_uid":6014356}
+apiname: /child/grow, time: 94ms, param: {"time_start":1465974133,"time_end":1481526133,"appid":"1108","token":"0c3f1c98cac64d24810a0e6c1a60ff05","record_type":"HEIGHT","parent_uid":"6010053","child_uid":6014356}
+apiname: /child/grow, time: 92ms, param: {"time_start":1465974119,"time_end":1481526119,"appid":"1108","token":"0c3f1c98cac64d24810a0e6c1a60ff05","record_type":"HEIGHT","parent_uid":"6010053","child_uid":6014356}
+
+//获取专家信息
+apiname: /paiband/strategy/index, time: 72ms, param: {"appid":"1108","uid":"6010053","token":"0c3f1c98cac64d24810a0e6c1a60ff05","cid":6014356}
+apiname: /paiband/strategy/index, time: 54ms, param: {"appid":"1108","uid":"6010053","token":"0c3f1c98cac64d24810a0e6c1a60ff05","cid":6014356}
+apiname: /paiband/strategy/index, time: 64ms, param: {"appid":"1108","uid":"6010053","token":"0c3f1c98cac64d24810a0e6c1a60ff05","cid":6014356}
+apiname: /paiband/strategy/index, time: 107ms, param: {"appid":"1108","uid":"6010053","token":"0c3f1c98cac64d24810a0e6c1a60ff05","cid":6014356}
+apiname: /paiband/strategy/index, time: 58ms, param: {"appid":"1108","uid":"6010053","token":"0c3f1c98cac64d24810a0e6c1a60ff05","cid":6014356}
+apiname: /paiband/strategy/index, time: 80ms, param: {"appid":"1108","uid":"6010053","token":"0c3f1c98cac64d24810a0e6c1a60ff05","cid":6014356}
+apiname: /paiband/strategy/index, time: 78ms, param: {"appid":"1108","uid":"6010053","token":"0c3f1c98cac64d24810a0e6c1a60ff05","cid":6014356}
+apiname: /paiband/strategy/index, time: 107ms, param: {"appid":"1108","uid":"6010053","token":"0c3f1c98cac64d24810a0e6c1a60ff05","cid":6014356}
+apiname: /paiband/strategy/index, time: 63ms, param: {"appid":"1108","uid":"6010053","token":"0c3f1c98cac64d24810a0e6c1a60ff05","cid":6014356}
+
+//获取体重信息
+apiname: /child/grow, time: 104ms, param: {"time_start":1480921311,"time_end":1481526111,"appid":"1108","token":"0c3f1c98cac64d24810a0e6c1a60ff05","record_type":"WEIGHT","parent_uid":"6010053","child_uid":6014356}
+apiname: /child/grow, time: 154ms, param: {"time_start":1480921317,"time_end":1481526117,"appid":"1108","token":"0c3f1c98cac64d24810a0e6c1a60ff05","record_type":"WEIGHT","parent_uid":"6010053","child_uid":6014356}
+apiname: /child/grow, time: 120ms, param: {"time_start":1480921351,"time_end":1481526151,"appid":"1108","token":"0c3f1c98cac64d24810a0e6c1a60ff05","record_type":"WEIGHT","parent_uid":"6010053","child_uid":6014356}
+apiname: /child/grow, time: 143ms, param: {"time_start":1480921319,"time_end":1481526119,"appid":"1108","token":"0c3f1c98cac64d24810a0e6c1a60ff05","record_type":"WEIGHT","parent_uid":"6010053","child_uid":6014356}
+apiname: /child/grow, time: 138ms, param: {"time_start":1480921353,"time_end":1481526153,"appid":"1108","token":"0c3f1c98cac64d24810a0e6c1a60ff05","record_type":"WEIGHT","parent_uid":"6010053","child_uid":6014356}
+apiname: /child/grow, time: 175ms, param: {"time_start":1480921294,"time_end":1481526094,"appid":"1108","token":"0c3f1c98cac64d24810a0e6c1a60ff05","record_type":"WEIGHT","parent_uid":"6010053","child_uid":6014356}
+apiname: /child/grow, time: 132ms, param: {"time_start":1480921354,"time_end":1481526154,"appid":"1108","token":"0c3f1c98cac64d24810a0e6c1a60ff05","record_type":"WEIGHT","parent_uid":"6010053","child_uid":6014356}
+apiname: /child/grow, time: 163ms, param: {"time_start":1480921269,"time_end":1481526069,"appid":"1108","token":"0c3f1c98cac64d24810a0e6c1a60ff05","record_type":"WEIGHT","parent_uid":"6010053","child_uid":6014356}
+apiname: /child/grow, time: 129ms, param: {"time_start":1480921362,"time_end":1481526162,"appid":"1108","token":"0c3f1c98cac64d24810a0e6c1a60ff05","record_type":"WEIGHT","parent_uid":"6010053","child_uid":6014356}
+
+//获取体重记录
+apiname: /child/grow, time: 85ms, param: {"time_start":1465974152,"time_end":1481526152,"appid":"1108","token":"0c3f1c98cac64d24810a0e6c1a60ff05","record_type":"WEIGHT","parent_uid":"6010053","child_uid":6014356}
+apiname: /child/grow, time: 104ms, param: {"time_start":1465974153,"time_end":1481526153,"appid":"1108","token":"0c3f1c98cac64d24810a0e6c1a60ff05","record_type":"WEIGHT","parent_uid":"6010053","child_uid":6014356}
+apiname: /child/grow, time: 121ms, param: {"time_start":1465974119,"time_end":1481526119,"appid":"1108","token":"0c3f1c98cac64d24810a0e6c1a60ff05","record_type":"WEIGHT","parent_uid":"6010053","child_uid":6014356}
+apiname: /child/grow, time: 172ms, param: {"time_start":1465974162,"time_end":1481526162,"appid":"1108","token":"0c3f1c98cac64d24810a0e6c1a60ff05","record_type":"WEIGHT","parent_uid":"6010053","child_uid":6014356}
+apiname: /child/grow, time: 112ms, param: {"time_start":1465974117,"time_end":1481526117,"appid":"1108","token":"0c3f1c98cac64d24810a0e6c1a60ff05","record_type":"WEIGHT","parent_uid":"6010053","child_uid":6014356}
+apiname: /child/grow, time: 89ms, param: {"time_start":1465974154,"time_end":1481526154,"appid":"1108","token":"0c3f1c98cac64d24810a0e6c1a60ff05","record_type":"WEIGHT","parent_uid":"6010053","child_uid":6014356}
+apiname: /child/grow, time: 152ms, param: {"time_start":1465974094,"time_end":1481526094,"appid":"1108","token":"0c3f1c98cac64d24810a0e6c1a60ff05","record_type":"WEIGHT","parent_uid":"6010053","child_uid":6014356}
+apiname: /child/grow, time: 112ms, param: {"time_start":1465974154,"time_end":1481526154,"appid":"1108","token":"0c3f1c98cac64d24810a0e6c1a60ff05","record_type":"WEIGHT","parent_uid":"6010053","child_uid":6014356}
+apiname: /child/grow, time: 79ms, param: {"time_start":1465974133,"time_end":1481526133,"appid":"1108","token":"0c3f1c98cac64d24810a0e6c1a60ff05","record_type":"WEIGHT","parent_uid":"6010053","child_uid":6014356}
+apiname: /child/grow, time: 181ms, param: {"time_start":1465974069,"time_end":1481526069,"appid":"1108","token":"0c3f1c98cac64d24810a0e6c1a60ff05","record_type":"WEIGHT","parent_uid":"6010053","child_uid":6014356}
+apiname: /child/grow, time: 108ms, param: {"time_start":1465974162,"time_end":1481526162,"appid":"1108","token":"0c3f1c98cac64d24810a0e6c1a60ff05","record_type":"WEIGHT","parent_uid":"6010053","child_uid":6014356}
+apiname: /child/grow, time: 123ms, param: {"time_start":1465974151,"time_end":1481526151,"appid":"1108","token":"0c3f1c98cac64d24810a0e6c1a60ff05","record_type":"WEIGHT","parent_uid":"6010053","child_uid":6014356}
+apiname: /child/grow, time: 127ms, param: {"time_start":1465974111,"time_end":1481526111,"appid":"1108","token":"0c3f1c98cac64d24810a0e6c1a60ff05","record_type":"WEIGHT","parent_uid":"6010053","child_uid":6014356}
+apiname: /child/grow, time: 286ms, param: {"time_start":1465973846,"time_end":1481525846,"appid":"1108","token":"0c3f1c98cac64d24810a0e6c1a60ff05","record_type":"WEIGHT","parent_uid":"6010053","child_uid":6014356}
+
+//获取心率时钟列表
+apiname: /paiband/timer/settings, time: 31ms, param: {"appid":"1108","uid":"6010053","token":"0c3f1c98cac64d24810a0e6c1a60ff05","cid":6014356}
+apiname: /paiband/timer/settings, time: 51ms, param: {"appid":"1108","uid":"6010053","token":"0c3f1c98cac64d24810a0e6c1a60ff05","cid":6014356}
+apiname: /paiband/timer/settings, time: 39ms, param: {"appid":"1108","uid":"6010053","token":"0c3f1c98cac64d24810a0e6c1a60ff05","cid":6014356}
+apiname: /paiband/timer/settings, time: 45ms, param: {"appid":"1108","uid":"6010053","token":"0c3f1c98cac64d24810a0e6c1a60ff05","cid":6014356}
+apiname: /paiband/timer/settings, time: 39ms, param: {"appid":"1108","uid":"6010053","token":"0c3f1c98cac64d24810a0e6c1a60ff05","cid":6014356}
+apiname: /paiband/timer/settings, time: 31ms, param: {"appid":"1108","uid":"6010053","token":"0c3f1c98cac64d24810a0e6c1a60ff05","cid":6014356}
+apiname: /paiband/timer/settings, time: 27ms, param: {"appid":"1108","uid":"6010053","token":"0c3f1c98cac64d24810a0e6c1a60ff05","cid":6014356}
+apiname: /paiband/timer/settings, time: 49ms, param: {"appid":"1108","uid":"6010053","token":"0c3f1c98cac64d24810a0e6c1a60ff05","cid":6014356}
+apiname: /paiband/timer/settings, time: 41ms, param: {"appid":"1108","uid":"6010053","token":"0c3f1c98cac64d24810a0e6c1a60ff05","cid":6014356}
+apiname: /paiband/timer/settings, time: 27ms, param: {"appid":"1108","uid":"6010053","token":"0c3f1c98cac64d24810a0e6c1a60ff05","cid":6014356}
+apiname: /paiband/timer/settings, time: 84ms, param: {"appid":"1108","uid":"6010053","token":"0c3f1c98cac64d24810a0e6c1a60ff05","cid":6014356}
+apiname: /paiband/timer/settings, time: 30ms, param: {"appid":"1108","uid":"6010053","token":"0c3f1c98cac64d24810a0e6c1a60ff05","cid":6014356}
+apiname: /paiband/timer/settings, time: 35ms, param: {"appid":"1108","uid":"6010053","token":"0c3f1c98cac64d24810a0e6c1a60ff05","cid":6014356}
+
+//获取心率测试记录
+apiname: /paiband/timer/heartlog, time: 34ms, param: {"appid":"1108","uid":"6010053","token":"0c3f1c98cac64d24810a0e6c1a60ff05","cid":6014356}
+apiname: /paiband/timer/heartlog, time: 96ms, param: {"appid":"1108","uid":"6010053","token":"0c3f1c98cac64d24810a0e6c1a60ff05","cid":6014356}
+apiname: /paiband/timer/heartlog, time: 35ms, param: {"appid":"1108","uid":"6010053","token":"0c3f1c98cac64d24810a0e6c1a60ff05","cid":6014356}
+apiname: /paiband/timer/heartlog, time: 39ms, param: {"appid":"1108","uid":"6010053","token":"0c3f1c98cac64d24810a0e6c1a60ff05","cid":6014356}
+apiname: /paiband/timer/heartlog, time: 58ms, param: {"appid":"1108","uid":"6010053","token":"0c3f1c98cac64d24810a0e6c1a60ff05","cid":6014356}
+apiname: /paiband/timer/heartlog, time: 125ms, param: {"appid":"1108","uid":"6010053","token":"0c3f1c98cac64d24810a0e6c1a60ff05","cid":6014356}
+
+//当天心率情况
+apiname: /paiband/heart/index, time: 83ms, param: {"appid":"1108","uid":"6010053","token":"0c3f1c98cac64d24810a0e6c1a60ff05","cid":6014356}
+apiname: /paiband/heart/index, time: 61ms, param: {"appid":"1108","uid":"6010053","token":"0c3f1c98cac64d24810a0e6c1a60ff05","cid":6014356}
+apiname: /paiband/heart/index, time: 107ms, param: {"appid":"1108","uid":"6010053","token":"0c3f1c98cac64d24810a0e6c1a60ff05","cid":6014356}
+apiname: /paiband/heart/index, time: 51ms, param: {"appid":"1108","uid":"6010053","token":"0c3f1c98cac64d24810a0e6c1a60ff05","cid":6014356}
+apiname: /paiband/heart/index, time: 137ms, param: {"appid":"1108","uid":"6010053","token":"0c3f1c98cac64d24810a0e6c1a60ff05","cid":6014356}
+apiname: /paiband/heart/index, time: 51ms, param: {"appid":"1108","uid":"6010053","token":"0c3f1c98cac64d24810a0e6c1a60ff05","cid":6014356}
+
+//获取目标设定
+apiname: /paiband/child/settings, time: 355ms, param: {"appid":"1108","uid":"6010053","token":"0c3f1c98cac64d24810a0e6c1a60ff05","cid":6014356}
+apiname: /paiband/child/settings, time: 192ms, param: {"appid":"1108","uid":"6010053","token":"0c3f1c98cac64d24810a0e6c1a60ff05","cid":6014356}
+apiname: /paiband/child/settings, time: 41ms, param: {"appid":"1108","uid":"6010053","token":"0c3f1c98cac64d24810a0e6c1a60ff05","cid":6014356}
+apiname: /paiband/child/settings, time: 200ms, param: {"appid":"1108","uid":"6010053","token":"0c3f1c98cac64d24810a0e6c1a60ff05","cid":6014356}
+apiname: /paiband/child/settings, time: 195ms, param: {"appid":"1108","uid":"6010053","token":"0c3f1c98cac64d24810a0e6c1a60ff05","cid":6014356}
+apiname: /paiband/child/settings, time: 205ms, param: {"appid":"1108","uid":"6010053","token":"0c3f1c98cac64d24810a0e6c1a60ff05","cid":6014356}
+apiname: /paiband/child/settings, time: 214ms, param: {"appid":"1108","uid":"6010053","token":"0c3f1c98cac64d24810a0e6c1a60ff05","cid":6014356}
+apiname: /paiband/child/settings, time: 113ms, param: {"appid":"1108","uid":"6010053","token":"0c3f1c98cac64d24810a0e6c1a60ff05","cid":6014356}
+apiname: /paiband/child/settings, time: 39ms, param: {"appid":"1108","uid":"6010053","token":"0c3f1c98cac64d24810a0e6c1a60ff05","cid":6014356}
+apiname: /paiband/child/settings, time: 118ms, param: {"appid":"1108","uid":"6010053","token":"0c3f1c98cac64d24810a0e6c1a60ff05","cid":6014356}
+apiname: /paiband/child/settings, time: 104ms, param: {"appid":"1108","uid":"6010053","token":"0c3f1c98cac64d24810a0e6c1a60ff05","cid":6014356}
+apiname: /paiband/child/settings, time: 182ms, param: {"appid":"1108","uid":"6010053","token":"0c3f1c98cac64d24810a0e6c1a60ff05","cid":6014356}
+apiname: /paiband/child/settings, time: 194ms, param: {"appid":"1108","uid":"6010053","token":"0c3f1c98cac64d24810a0e6c1a60ff05","cid":6014356}
+apiname: /paiband/child/settings, time: 134ms, param: {"appid":"1108","uid":"6010053","token":"0c3f1c98cac64d24810a0e6c1a60ff05","cid":6014356}
+apiname: /paiband/child/settings, time: 109ms, param: {"appid":"1108","uid":"6010053","token":"0c3f1c98cac64d24810a0e6c1a60ff05","cid":6014356}
+apiname: /paiband/child/settings, time: 185ms, param: {"appid":"1108","uid":"6010053","token":"0c3f1c98cac64d24810a0e6c1a60ff05","cid":6014356}
+apiname: /paiband/child/settings, time: 110ms, param: {"appid":"1108","uid":"6010053","token":"0c3f1c98cac64d24810a0e6c1a60ff05","cid":6014356}
+apiname: /paiband/child/settings, time: 34ms, param: {"appid":"1108","uid":"6010053","token":"0c3f1c98cac64d24810a0e6c1a60ff05","cid":6014356}
+apiname: /paiband/child/settings, time: 201ms, param: {"appid":"1108","uid":"6010053","token":"0c3f1c98cac64d24810a0e6c1a60ff05","cid":6014356}
+apiname: /paiband/child/settings, time: 113ms, param: {"appid":"1108","uid":"6010053","token":"0c3f1c98cac64d24810a0e6c1a60ff05","cid":6014356}
+apiname: /paiband/child/settings, time: 216ms, param: {"appid":"1108","uid":"6010053","token":"0c3f1c98cac64d24810a0e6c1a60ff05","cid":6014356}
+apiname: /paiband/child/settings, time: 168ms, param: {"appid":"1108","uid":"6010053","token":"0c3f1c98cac64d24810a0e6c1a60ff05","cid":6014356}
+apiname: /paiband/child/settings, time: 104ms, param: {"appid":"1108","uid":"6010053","token":"0c3f1c98cac64d24810a0e6c1a60ff05","cid":6014356}
+apiname: /paiband/child/settings, time: 78ms, param: {"appid":"1108","uid":"6010053","token":"0c3f1c98cac64d24810a0e6c1a60ff05","cid":6014356}
+apiname: /paiband/child/settings, time: 108ms, param: {"appid":"1108","uid":"6010053","token":"0c3f1c98cac64d24810a0e6c1a60ff05","cid":6014356}
+apiname: /paiband/child/settings, time: 108ms, param: {"appid":"1108","uid":"6010053","token":"0c3f1c98cac64d24810a0e6c1a60ff05","cid":6014356}
+apiname: /paiband/child/settings, time: 205ms, param: {"appid":"1108","uid":"6010053","token":"0c3f1c98cac64d24810a0e6c1a60ff05","cid":6014356}
+apiname: /paiband/child/settings, time: 192ms, param: {"appid":"1108","uid":"6010053","token":"0c3f1c98cac64d24810a0e6c1a60ff05","cid":6014356}
+apiname: /paiband/child/settings, time: 194ms, param: {"appid":"1108","uid":"6010053","token":"0c3f1c98cac64d24810a0e6c1a60ff05","cid":6014356}
+apiname: /paiband/child/settings, time: 78ms, param: {"appid":"1108","uid":"6010053","token":"0c3f1c98cac64d24810a0e6c1a60ff05","cid":6014356}
+apiname: /paiband/child/settings, time: 194ms, param: {"appid":"1108","uid":"6010053","token":"0c3f1c98cac64d24810a0e6c1a60ff05","cid":6014356}
+apiname: /paiband/child/settings, time: 801ms, param: {"appid":"1108","uid":"6010053","token":"0c3f1c98cac64d24810a0e6c1a60ff05","cid":6014356}
+apiname: /paiband/child/settings, time: 45ms, param: {"appid":"1108","uid":"6010053","token":"0c3f1c98cac64d24810a0e6c1a60ff05","cid":6014356}
+
+//获取睡眠月份数据
+apiname: /paiband/sleeping/month, time: 117ms, param: {"month_end":"20161212","appid":"1108","uid":"6010053","token":"0c3f1c98cac64d24810a0e6c1a60ff05","cid":6014356}
+apiname: /paiband/sleeping/month, time: 112ms, param: {"month_end":"20161212","appid":"1108","uid":"6010053","token":"0c3f1c98cac64d24810a0e6c1a60ff05","cid":6014356}
+apiname: /paiband/sleeping/month, time: 120ms, param: {"month_end":"20161212","appid":"1108","uid":"6010053","token":"0c3f1c98cac64d24810a0e6c1a60ff05","cid":6014356}
+apiname: /paiband/sleeping/month, time: 118ms, param: {"month_end":"20161212","appid":"1108","uid":"6010053","token":"0c3f1c98cac64d24810a0e6c1a60ff05","cid":6014356}
+
+//获取睡眠今日数据
+apiname: /paiband/sleeping/index, time: 144ms, param: {"appid":"1108","uid":"6010053","token":"0c3f1c98cac64d24810a0e6c1a60ff05","cid":6014356}
+apiname: /paiband/sleeping/index, time: 811ms, param: {"appid":"1108","uid":"6010053","token":"0c3f1c98cac64d24810a0e6c1a60ff05","cid":6014356}
+apiname: /paiband/sleeping/index, time: 200ms, param: {"appid":"1108","uid":"6010053","token":"0c3f1c98cac64d24810a0e6c1a60ff05","cid":6014356}
+apiname: /paiband/sleeping/index, time: 191ms, param: {"appid":"1108","uid":"6010053","token":"0c3f1c98cac64d24810a0e6c1a60ff05","cid":6014356}
+apiname: /paiband/sleeping/index, time: 248ms, param: {"appid":"1108","uid":"6010053","token":"0c3f1c98cac64d24810a0e6c1a60ff05","cid":6014356}
+apiname: /paiband/sleeping/index, time: 116ms, param: {"appid":"1108","uid":"6010053","token":"0c3f1c98cac64d24810a0e6c1a60ff05","cid":6014356}
+apiname: /paiband/sleeping/index, time: 122ms, param: {"appid":"1108","uid":"6010053","token":"0c3f1c98cac64d24810a0e6c1a60ff05","cid":6014356}
+apiname: /paiband/sleeping/index, time: 212ms, param: {"appid":"1108","uid":"6010053","token":"0c3f1c98cac64d24810a0e6c1a60ff05","cid":6014356}
+apiname: /paiband/sleeping/index, time: 217ms, param: {"appid":"1108","uid":"6010053","token":"0c3f1c98cac64d24810a0e6c1a60ff05","cid":6014356}
+apiname: /paiband/sleeping/index, time: 213ms, param: {"appid":"1108","uid":"6010053","token":"0c3f1c98cac64d24810a0e6c1a60ff05","cid":6014356}
+apiname: /paiband/sleeping/index, time: 176ms, param: {"appid":"1108","uid":"6010053","token":"0c3f1c98cac64d24810a0e6c1a60ff05","cid":6014356}
+apiname: /paiband/sleeping/index, time: 116ms, param: {"appid":"1108","uid":"6010053","token":"0c3f1c98cac64d24810a0e6c1a60ff05","cid":6014356}
+
+//获取睡眠本周数据
+apiname: /paiband/sleeping/week, time: 115ms, param: {"week_end":"20161212","appid":"1108","uid":"6010053","token":"0c3f1c98cac64d24810a0e6c1a60ff05","cid":6014356}
+apiname: /paiband/sleeping/week, time: 726ms, param: {"week_end":"20161212","appid":"1108","uid":"6010053","token":"0c3f1c98cac64d24810a0e6c1a60ff05","cid":6014356}
+apiname: /paiband/sleeping/week, time: 105ms, param: {"week_end":"20161212","appid":"1108","uid":"6010053","token":"0c3f1c98cac64d24810a0e6c1a60ff05","cid":6014356}
+apiname: /paiband/sleeping/week, time: 113ms, param: {"week_end":"20161212","appid":"1108","uid":"6010053","token":"0c3f1c98cac64d24810a0e6c1a60ff05","cid":6014356}
+
+//获取运动本月数据
+apiname: /paiband/motion/month, time: 118ms, param: {"month_end":"20161212","appid":"1108","uid":"6010053","token":"0c3f1c98cac64d24810a0e6c1a60ff05","cid":6014356}
+apiname: /paiband/motion/month, time: 119ms, param: {"month_end":"20161212","appid":"1108","uid":"6010053","token":"0c3f1c98cac64d24810a0e6c1a60ff05","cid":6014356}
+apiname: /paiband/motion/month, time: 110ms, param: {"month_end":"20161212","appid":"1108","uid":"6010053","token":"0c3f1c98cac64d24810a0e6c1a60ff05","cid":6014356}
+apiname: /paiband/motion/month, time: 121ms, param: {"month_end":"20161212","appid":"1108","uid":"6010053","token":"0c3f1c98cac64d24810a0e6c1a60ff05","cid":6014356}
+apiname: /paiband/motion/month, time: 107ms, param: {"month_end":"20161212","appid":"1108","uid":"6010053","token":"0c3f1c98cac64d24810a0e6c1a60ff05","cid":6014356}
+
+//获取运动今日数据
+apiname: /paiband/motion/index, time: 191ms, param: {"appid":"1108","uid":"6010053","token":"0c3f1c98cac64d24810a0e6c1a60ff05","cid":6014356}
+apiname: /paiband/motion/index, time: 85ms, param: {"appid":"1108","uid":"6010053","token":"0c3f1c98cac64d24810a0e6c1a60ff05","cid":6014356}
+apiname: /paiband/motion/index, time: 215ms, param: {"appid":"1108","uid":"6010053","token":"0c3f1c98cac64d24810a0e6c1a60ff05","cid":6014356}
+apiname: /paiband/motion/index, time: 84ms, param: {"appid":"1108","uid":"6010053","token":"0c3f1c98cac64d24810a0e6c1a60ff05","cid":6014356}
+apiname: /paiband/motion/index, time: 204ms, param: {"appid":"1108","uid":"6010053","token":"0c3f1c98cac64d24810a0e6c1a60ff05","cid":6014356}
+apiname: /paiband/motion/index, time: 119ms, param: {"appid":"1108","uid":"6010053","token":"0c3f1c98cac64d24810a0e6c1a60ff05","cid":6014356}
+apiname: /paiband/motion/index, time: 203ms, param: {"appid":"1108","uid":"6010053","token":"0c3f1c98cac64d24810a0e6c1a60ff05","cid":6014356}
+apiname: /paiband/motion/index, time: 115ms, param: {"appid":"1108","uid":"6010053","token":"0c3f1c98cac64d24810a0e6c1a60ff05","cid":6014356}
+apiname: /paiband/motion/index, time: 209ms, param: {"appid":"1108","uid":"6010053","token":"0c3f1c98cac64d24810a0e6c1a60ff05","cid":6014356}
+apiname: /paiband/motion/index, time: 201ms, param: {"appid":"1108","uid":"6010053","token":"0c3f1c98cac64d24810a0e6c1a60ff05","cid":6014356}
+apiname: /paiband/motion/index, time: 118ms, param: {"appid":"1108","uid":"6010053","token":"0c3f1c98cac64d24810a0e6c1a60ff05","cid":6014356}
+apiname: /paiband/motion/index, time: 52ms, param: {"appid":"1108","uid":"6010053","token":"0c3f1c98cac64d24810a0e6c1a60ff05","cid":6014356}
+apiname: /paiband/motion/index, time: 225ms, param: {"appid":"1108","uid":"6010053","token":"0c3f1c98cac64d24810a0e6c1a60ff05","cid":6014356}
+apiname: /paiband/motion/index, time: 64ms, param: {"appid":"1108","uid":"6010053","token":"0c3f1c98cac64d24810a0e6c1a60ff05","cid":6014356}
+apiname: /paiband/motion/index, time: 124ms, param: {"appid":"1108","uid":"6010053","token":"0c3f1c98cac64d24810a0e6c1a60ff05","cid":6014356}
+apiname: /paiband/motion/index, time: 321ms, param: {"appid":"1108","uid":"6010053","token":"0c3f1c98cac64d24810a0e6c1a60ff05","cid":6014356}
+apiname: /paiband/motion/index, time: 223ms, param: {"appid":"1108","uid":"6010053","token":"0c3f1c98cac64d24810a0e6c1a60ff05","cid":6014356}
+apiname: /paiband/motion/index, time: 193ms, param: {"appid":"1108","uid":"6010053","token":"0c3f1c98cac64d24810a0e6c1a60ff05","cid":6014356}
+
+//获取运动本周数据
+apiname: /paiband/motion/week, time: 114ms, param: {"week_end":"20161212","appid":"1108","uid":"6010053","token":"0c3f1c98cac64d24810a0e6c1a60ff05","cid":6014356}
+apiname: /paiband/motion/week, time: 110ms, param: {"week_end":"20161212","appid":"1108","uid":"6010053","token":"0c3f1c98cac64d24810a0e6c1a60ff05","cid":6014356}
+apiname: /paiband/motion/week, time: 68ms, param: {"week_end":"20161212","appid":"1108","uid":"6010053","token":"0c3f1c98cac64d24810a0e6c1a60ff05","cid":6014356}
+apiname: /paiband/motion/week, time: 111ms, param: {"week_end":"20161212","appid":"1108","uid":"6010053","token":"0c3f1c98cac64d24810a0e6c1a60ff05","cid":6014356}
+apiname: /paiband/motion/week, time: 122ms, param: {"week_end":"20161212","appid":"1108","uid":"6010053","token":"0c3f1c98cac64d24810a0e6c1a60ff05","cid":6014356}

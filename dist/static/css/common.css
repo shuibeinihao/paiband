@@ -1,0 +1,255 @@
+/*paiband 项目 z-index层级整理如下：
+header (z-index:200 子元素z-index可设置范围为0-200)
+content(z-index:99 子元素z-index可设置范围为 0-99)
+footer   (z-index:100 子元素z-index可设置范围为 0-100)
+mark     (z-index:101 子元素z-index可设置范围为 0-101)
+
+alert,
+tip,
+loading(z-index:102 子元素z-index可设置范围为0-102)*/
+
+/*红色 #ef5361 紫色：#8c3ffa  橘黄色：#ff9c0c 字体颜色：#313131  边框颜色 ：e1e1e1  灰色：#959595*/
+html {
+    font-size: 16px;
+    background-color: #F5F5F5;
+    font-family: Helvetica, 'Hiragino Sans GB', 'Microsoft Yahei', '微软雅黑', Arial, sans-serif;
+    -webkit-overflow-scrolling: touch;
+}
+
+html, body {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height:100%;
+    -webkit-text-size-adjust:none;
+    -webkit-user-select: none;   /* 禁止选中文本（如无文本选中需求，此为必选项） */
+    user-select: none;
+    -webkit-animation: fadeIn 1.5s both;
+            animation: fadeIn 1.5s both;
+}
+
+/*@-webkit-keyframes fadeInInfo {
+  0% {opacity: 0;}
+  50% {opacity: 0.8;}
+  100% { opacity:1;}
+}
+
+@keyframes fadeInInfo {
+  0% {opacity: 0;}
+  50% {opacity: 0.8;}
+  100% { opacity:1;}
+}*/
+
+
+a, img {
+    -webkit-touch-callout: none; /* 禁止长按链接与图片弹出菜单 */
+}
+
+a, button, canvas, li {
+    -webkit-tap-highlight-color: rgba(255, 0, 0, 0);
+}
+
+@font-face {
+    font-family: AkzidenzGrotesk;
+    src: url('../fonts/AkzidenzGrotesk-LightCond.ttf');
+}
+
+.hide {
+    display: none;
+}
+
+.hidden {
+    visibility: hidden;
+}
+
+.clear {
+    clear: both;
+}
+
+.wrapper {
+    width: 100%;
+    /*height:100%;*/
+}
+
+.header {
+    display:none;
+    position: fixed;
+    width: 100%;
+    box-sizing:border-box;
+    height: 2.8rem;
+    top: 0;
+    font-size: 1.2rem;
+    background-color: rgba(255, 255, 255, 0.99);
+    z-index: 200;
+    border-bottom:1px solid #e1e1e1;
+    box-shadow: 0 1px 2px rgba(194,194,194,0.5);
+}
+
+.content {
+    /*position: fixed;*/
+    /*top: 0;*/
+    /*right: 0;*/
+    /*bottom: 0;*/
+    /*left: 0;*/
+    /*overflow-x: hidden;*/
+    /*overflow-y: scroll;*/
+}
+
+.footer {
+    position: fixed;
+    width: 100%;
+    height: 3.3rem;
+    bottom: 2rem;
+    background-color: rgba(255, 255, 255, 0.9);
+    z-index: 100;
+}
+
+.footer-menu {
+    width: 100%;
+    height: 3rem;
+    display: table;
+    position: fixed;
+    bottom: 0;
+    margin: 0;
+    padding: 0;
+    background-color: rgba(255, 255, 255, 0.9);
+    text-align: center;
+    table-layout: fixed;
+    list-style: none;
+    z-index: 110;
+}
+
+
+
+/*--wdy20160805--*/
+span,i,b,p,ul,li,a{font-style: normal; text-decoration: none; font-weight: normal; margin: 0; padding: 0; list-style: none;}
+input, textarea{
+    -webkit-appearance: none;
+}
+a {
+    text-decoration: none;
+    border: none;
+    color: #333;
+    outline: none;
+    -webkit-tap-highlight-color: rgba(0,0,0,0);
+    }
+.box_wrapper{width:92%; margin:0 auto; background: #fff; border-radius:5px; box-shadow: 0 0 5px #e2e2e2;}
+/*链接按钮*/
+.link_go{border-top:1px solid #e1e1e1;}
+.link_go a{ display:block; position:relative; text-align: center; font-size: 0.9rem; color:#313131; padding:2.5% 0;}
+.link_go a img{ transform: rotate(-90deg); width:11px; position: relative; left:5px; top:-1px;}
+/*开关*/
+.toggle-switch{
+    appearance: none;
+    position: relative;
+    width: 48px;
+    height:20px;
+    border: 1px solid #DFDFDF;
+    outline: 0;
+    border-radius: 16px;
+    box-sizing: border-box;
+    background: #DFDFDF;
+}
+.toggle-switch:before{
+    content: " ";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 46px;
+    height: 18px;
+    border-radius: 15px;
+    background-color: #FDFDFD;
+    transition:transform .3s;
+}
+.toggle-switch:after{
+    content: " ";
+    position: absolute;
+    top: -4px;
+    left: 0;
+    width: 25px;
+    height: 25px;
+    border-radius: 15px;
+    background-color: #FFFFFF;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.4);
+    transition:transform .3s;
+}
+.toggle-switch:checked{
+    border-color: #04BE02;
+    background-color: #04BE02;
+}
+.toggle-switch:checked:before{
+    transform: scale(0);
+}
+.toggle-switch:checked:after{
+    transform: translateX(22px);
+}
+
+/*弹框介绍*/
+.assess_con{position:fixed; left:0; top:1rem; bottom:1rem; padding:0 8%; z-index: 10;
+ width:84%; color:#fff;}
+.assess_con p{font-size: 1.4rem; padding:1.6rem 0;}
+.assess_con span{display:block; font-size: .9rem; margin-bottom:1.6rem;}
+.assess_con span b{display:block;}
+.assess_con span i{display:inline-block; color:#ff9c0c;}
+.assess_con a{ display:block; width:3.2rem; height:3.2rem; position:absolute; bottom:0rem; left:50%; margin-left:-1.6rem; 
+    background:url(../images/btn_50_x_nor@3x.png) no-repeat; background-size: 100% 100%;}
+.sleep_mark{position:fixed; left:0; top:0; z-index: 9; width:100%; height:100%; 
+    background:rgba(0,0,0,0.6);}
+
+/*ota更新弹出看文字左对齐*/
+.textalign{text-align: left;}
+
+
+/*睡眠数据页面总结文字样式后台返回html渲染的先后问题所以放到全局样式表里面*/
+.health-sleep .tips .tip-info p{ font-size: .9rem;}
+.health-sleep .tips .tip-info p span{ color:#666; display:block; padding-bottom:.5rem; border-bottom:1px solid #e1e1e1;}
+.health-sleep .tips .tip-info p span b{color:#8b49f6;}
+.health-sleep .tips .tip-info p i{display:block; color:#666;}
+.health-sleep .tips .tip-info p i:nth-child(2){margin-top:.5rem;}
+.health-sleep .tips .tip-info p i b{color:#8b49f6;}
+
+/*过度动画fadeIn*/
+.fadeIn-transition {
+   /*transition: all 0.3s ease;*/
+}
+.fadeInOut-transition {
+   /*transition: all 0.3s ease;*/
+}
+
+/* .fadeIn-enter 定义进入的开始状态 */
+/* .fadeIn-leave 定义离开的结束状态 */
+.fadeIn-enter{
+    -webkit-animation:fadeIn 1s both;
+            animation:fadeIn 1s both;
+}
+.fadeIn-leave {
+    /*animation:fadeOut 1s both;*/
+}
+.fadeInOut-enter{
+    -webkit-animation:fadeIn .5s both;
+            animation:fadeIn .5s both;
+}
+.fadeInOut-leave {
+    -webkit-animation:fadeOut .5s both;
+            animation:fadeOut .5s both;
+}
+@-webkit-keyframes fadeIn {
+  0% {opacity: 0;}
+  100% {opacity: 1;}
+}
+
+@keyframes fadeIn {
+  0% {opacity: 0;}
+  100% {opacity: 1;}
+}
+@-webkit-keyframes fadeOut {
+  0% {opacity: 1;}
+  100% {opacity: 0;}
+}
+
+@keyframes fadeOut {
+  0% {opacity: 1;}
+  100% {opacity: 0;}
+}
+
+
